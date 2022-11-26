@@ -132,3 +132,4 @@ input =torch.rand(103,3,31)
 Final_Encoder=DGCNN_encoder()
 output_finale=Final_Encoder(input)
 print(output_finale.shape)
+
